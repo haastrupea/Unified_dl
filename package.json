@@ -1,0 +1,19 @@
+{
+  "name": "unified_dl",
+  "version": "1.0.0",
+  "description": "cross platform app that will allow users to download from youtube, udemy, coursera, lynda and any other provider that support will be added for in the future.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unified_dl",
+    "youtube_dl",
+    "udemy_dl",
+    "coursera_dl",
+    "lynda_dl",
+    "linux"
+  ],
+  "author": "Haastrup Elijah",
+  "license": "MIT"
+}
